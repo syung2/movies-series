@@ -2,7 +2,7 @@
   "name": "building_movie_tv",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://syung2.github.io/movies-series",
+  "homepage": "https://sucode.co.kr",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.1",
